@@ -10,6 +10,7 @@ Mỗi skill nằm trong một thư mục riêng ở `skills/<tên-skill>/`, bắ
 |---|---|---|
 | [`design-taste-frontend`](skills/design-taste-frontend/SKILL.md) | Thiết kế và chỉnh giao diện web đẹp, tránh kiểu "AI làm": landing page, trang giới thiệu, bảng điều khiển | [Leonxlnx/taste-skill](https://github.com/leonxlnx/taste-skill), giấy phép MIT |
 | [`impeccable`](skills/impeccable/SKILL.md) | Thiết kế, chấm điểm (critique/audit), làm đẹp, đơn giản hóa, tăng độ bền cho giao diện web và app: bố cục, chữ, màu, chuyển động, câu chữ UX, truy cập | [pbakaus/impeccable](https://github.com/pbakaus/impeccable), giấy phép Apache 2.0 |
+| [`skill-router`](skills/skill-router/SKILL.md) | Quét các skill đã cài, tự gợi ý hoặc tự chọn skill phù hợp cho từng yêu cầu (lệnh `/skill-router on`). Hữu ích khi có hàng trăm skill | [pcx-wave/skill-router](https://github.com/pcx-wave/skill-router), giấy phép MIT |
 | [`emil-design-eng`](skills/emil-design-eng/SKILL.md) | Triết lý của Emil Kowalski về độ tinh tế của UI, thiết kế component, quyết định chuyển động | [emilkowalski/skills](https://github.com/emilkowalski/skills), giấy phép MIT |
 | [`animate`](skills/animate/SKILL.md) | Làm animation từ đầu, quyết định theo thứ tự để cảm giác mượt và tự nhiên | [emilkowalski/skills](https://github.com/emilkowalski/skills), giấy phép MIT |
 | [`animate-expo`](skills/animate-expo/SKILL.md) | Làm animation cho React Native và Expo | [emilkowalski/skills](https://github.com/emilkowalski/skills), giấy phép MIT |
