@@ -4,6 +4,10 @@ Kho lưu các skill dành cho Claude của SGE Viettrans.
 
 Mỗi skill nằm trong một thư mục riêng ở `skills/<tên-skill>/`, bắt buộc có file `SKILL.md` ở gốc thư mục đó.
 
+## Quy tắc ưu tiên
+
+**`skill-router` luôn là skill ưu tiên số một.** Mỗi khi làm việc với kho này, Claude đọc `skills/skill-router/SKILL.md` trước, rồi để skill này chọn skill phù hợp cho yêu cầu (thiết kế web, viết nội dung, logistics...). Chỉ sau đó mới đọc và làm theo skill được chọn. Quy tắc này cũng nằm trong `CLAUDE.md` và `AGENTS.md` ở gốc kho để công cụ tự đọc.
+
 ## Danh sách skill
 
 | Skill | Dùng để làm gì | Nguồn |
